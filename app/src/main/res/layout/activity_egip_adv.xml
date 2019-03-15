@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+
+    android:orientation="vertical"
+    tools:context=".EgipAdvActivity">
+
+   <com.google.android.gms.ads.AdView xmlns:ads="http://schemas.android.com/apk/res-auto"
+       android:id="@+id/adView_jog9"
+       android:layout_width="match_parent"
+       android:layout_height="56dp"
+       android:layout_marginStart="8dp"
+       android:layout_marginTop="8dp"
+       android:layout_marginEnd="8dp"
+       android:layout_marginBottom="8dp"
+       ads:adSize="BANNER"
+       ads:adUnitId="@string/admob_banner_id"
+       app:layout_constraintVertical_bias="1.0"></com.google.android.gms.ads.AdView>
+
+   <RelativeLayout
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_marginStart="20dp"
+       android:layout_marginTop="3dp"
+       android:layout_marginEnd="20dp"
+       android:background="@color/azulTransparente"
+       android:orientation="vertical">
+
+      <TextView
+          android:id="@+id/textViewlabelPrincipal"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_centerHorizontal="true"
+          android:layout_centerVertical="true"
+          android:layout_marginStart="10dp"
+          android:layout_marginEnd="10dp"
+          android:layout_marginBottom="25dp"
+          android:gravity="center"
+          android:text="Pense em um número entre 10 e 100 "
+          android:textColor="@color/colorPrimary"
+          android:textSize="26dp"
+          android:visibility="visible" />
+   </RelativeLayout>
+
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:layout_marginStart="50dp"
+       android:layout_marginTop="5dp"
+       android:layout_marginEnd="50dp"
+       android:gravity="center"
+       android:orientation="vertical">
+
+      <Button
+          android:id="@+id/btproximo"
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          android:background="@color/colorPrimaryDark"
+          android:text="Proximo" />
+
+      <LinearLayout
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content">
+
+         <Button
+             android:id="@+id/btSim"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             android:background="@color/colorPrimaryDark"
+             android:text="Impar"
+             android:visibility="invisible" />
+
+         <Button
+             android:id="@+id/btNao"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             android:layout_marginStart="10dp"
+             android:background="@color/colorPrimaryDark"
+             android:text="Par"
+             android:visibility="invisible" />
+
+      </LinearLayout>
+
+   </LinearLayout>
+
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:layout_marginStart="20dp"
+       android:layout_marginTop="30dp"
+       android:layout_marginEnd="20dp"
+       android:background="@color/azulTransparente"
+       android:gravity="center"
+       android:orientation="vertical">
+
+      <TextView
+
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_centerHorizontal="true"
+          android:layout_centerVertical="true"
+          android:layout_marginStart="10dp"
+          android:layout_marginTop="5dp"
+          android:layout_marginEnd="10dp"
+          android:layout_marginBottom="25dp"
+          android:gravity="center"
+          android:text="Clique no botão abaixo quando o resultado da divisão for igual a 1"
+          android:textColor="@color/colorPrimary"
+          android:textSize="24dp"
+          android:visibility="visible" />
+
+      <RelativeLayout
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_marginBottom="10dp">
+
+         <Button
+             android:id="@+id/igual1"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_marginTop="5dp"
+             android:background="@color/colorPrimaryDark"
+             android:text="Igual a 1" />
+
+      </RelativeLayout>
+
+   </LinearLayout>
+
+
+
+</LinearLayout>

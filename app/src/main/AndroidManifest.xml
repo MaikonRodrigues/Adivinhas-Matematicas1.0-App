@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="edmt.dev.adivinhas_matematicas">
+
+    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"></uses-permission>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher_logo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="edmt.dev.adivinhas_matematicas.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="edmt.dev.adivinhas_matematicas.ActivityOne" />
+        <activity android:name="edmt.dev.adivinhas_matematicas.AdvinhaActivity" />
+        <activity android:name="edmt.dev.adivinhas_matematicas.AdvinhaPrimTela_Activity" />
+        <activity android:name="edmt.dev.adivinhas_matematicas.TelaResActivity" />
+        <activity android:name="edmt.dev.adivinhas_matematicas.Jogo2Activity" />
+        <activity android:name="edmt.dev.adivinhas_matematicas.Jog3Activity" />
+        <activity android:name="edmt.dev.adivinhas_matematicas.Jogodos9Activity" />
+        <activity android:name="edmt.dev.adivinhas_matematicas.AniversarioActivity" />
+        <activity android:name="edmt.dev.adivinhas_matematicas.EgipAdvActivity" />
+
+        <!-- Sample AdMob App ID: ca-app-pub-3940256099942544~3347511713 -->
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-3549914170282480~2452939572"/>
+
+    </application>
+
+</manifest>

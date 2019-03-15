@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Adivinhas Matemáticas</string>
+    <!--string name="admod_baner1_id">ca-app-pub-3940256099942544/6300978111</string-->
+        <!--ca-app-pub-3549914170282480/4047855175-->
+    <!--string name="admod_institution_id">ca-app-pub-3549914170282480/5615377271</string-->
+
+    <string name="admob_app_id">ca-app-pub-3549914170282480~8593604847</string>                         <!--  codigo do aplicativo   ca-app-pub-3549914170282480~8593604847   -->
+    <string name="admob_banner_id">ca-app-pub-3549914170282480/4047855175</string>                      <!--  codigo do banner       ca-app-pub-3549914170282480/4047855175   -->
+    <string name="admob_intersticial_id">ca-app-pub-3549914170282480/5615377271</string>                                                                      <!--  codigo do interticial  ca-app-pub-3549914170282480/5615377271   -->
+</resources>
