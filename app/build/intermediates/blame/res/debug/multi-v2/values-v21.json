@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas-App/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
+            "outputFile": "/home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
             "map": [
                 {
                     "source": "/home/maikon/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/efc147efd21e4a84ebeb5f02aee6f688/res/values-v21/values-v21.xml",

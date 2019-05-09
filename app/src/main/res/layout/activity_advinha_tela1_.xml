@@ -467,9 +467,9 @@ tools:context="edmt.dev.adivinhas_matematicas.MainActivity">
                 android:layout_height="wrap_content"
                 android:layout_alignParentStart="true"
                 android:layout_alignParentBottom="true"
-                android:layout_marginStart="76dp"
+                android:layout_marginStart="31dp"
                 android:layout_marginBottom="0dp"
-                android:background="@color/colorPrimaryDark"
+                android:background="@drawable/capsule"
                 android:text="Sim" />
 
             <Button
@@ -479,8 +479,8 @@ tools:context="edmt.dev.adivinhas_matematicas.MainActivity">
                 android:layout_alignParentTop="true"
                 android:layout_alignParentEnd="true"
                 android:layout_marginTop="2dp"
-                android:layout_marginEnd="82dp"
-                android:background="@color/colorPrimaryDark"
+                android:layout_marginEnd="30dp"
+                android:background="@drawable/capsule"
                 android:text="Não" />
         </RelativeLayout>
     </LinearLayout>
