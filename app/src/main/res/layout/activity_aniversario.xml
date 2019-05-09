@@ -80,7 +80,7 @@
                 android:id="@+id/btproximo"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:background="@color/colorPrimaryDark"
+                android:background="@drawable/capsule"
                 android:text="        Proximo        " />
 
         </RelativeLayout>

@@ -133,7 +133,7 @@
         android:layout_marginTop="25dp"
         android:layout_marginEnd="50dp"
         android:layout_marginBottom="50dp"
-        android:background="@color/colorPrimaryDark"
+        android:background="@drawable/capsule"
         android:text="Próximo" />
 
 
