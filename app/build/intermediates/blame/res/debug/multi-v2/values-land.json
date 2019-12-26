@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "outputFile": "C:\\Users\\Dell\\Documents\\ProjetosAndroid\\Adivinhas-Matematicas1.0-App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
             "map": [
                 {
-                    "source": "/home/maikon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/b07aa495dca11482ae4c105fb06ade07/res/values-land/values-land.xml",
+                    "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\cb5194350563d2a78f11e3358b351b18\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/home/maikon/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/efc147efd21e4a84ebeb5f02aee6f688/res/values-land/values-land.xml",
+                    "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\aac750bdcde9543529f0f95de505ca78\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

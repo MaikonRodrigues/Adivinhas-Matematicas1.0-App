@@ -455,7 +455,7 @@ int color background_floating_material_dark 0x7f05001b
 int color background_floating_material_light 0x7f05001c
 int color background_material_dark 0x7f05001d
 int color background_material_light 0x7f05001e
-int color banco 0x7f05001f
+int color branco 0x7f05001f
 int color bright_foreground_disabled_material_dark 0x7f050020
 int color bright_foreground_disabled_material_light 0x7f050021
 int color bright_foreground_inverse_material_dark 0x7f050022

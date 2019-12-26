@@ -7,6 +7,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.google.android.gms.ads.AdListener;
 import com.google.android.gms.ads.AdRequest;
@@ -99,67 +100,72 @@ public class AniversarioActivity extends AppCompatActivity {
                     resultadoConta.setVisibility(View.VISIBLE);
                     contador++;
                 } else if (contador == 5) {
-                    somaFinal = Integer.parseInt(resultadoConta.getText().toString());
-                    somaFinal = (somaFinal - 250);
-                    System.out.print("aqui");
-                    //Separando caracteres com metodo toCharArray();
-                    somaFinalString = String.valueOf(somaFinal);
-                    vetor = somaFinalString.toCharArray();
+                    if(resultadoConta.getText().length() == 0){
+                        Toast.makeText(AniversarioActivity.this, "Informe o resultado", Toast.LENGTH_LONG).show();
+                    }else{
+                        somaFinal = Integer.parseInt(resultadoConta.getText().toString());
+                        somaFinal = (somaFinal - 250);
+
+                        //Separando caracteres com metodo toCharArray();
+                        somaFinalString = String.valueOf(somaFinal);
+                        vetor = somaFinalString.toCharArray();
 
 
-                    contCaracter = resultadoConta.getText().toString().length();
-                    if (contCaracter == 3) {
-                        //pegar o primeiro numero como mes e os dois ultimos como idade
-                        part1.append(vetor[0]);
-                        mes = Integer.parseInt(part1.toString());
-                        part2.append(vetor[1]).append(vetor[2]);
-                        idade = Integer.parseInt(part2.toString());
+                        contCaracter = resultadoConta.getText().toString().length();
+                        if (contCaracter == 3) {
+                            //pegar o primeiro numero como mes e os dois ultimos como idade
+                            part1.append(vetor[0]);
+                            mes = Integer.parseInt(part1.toString());
+                            part2.append(vetor[1]).append(vetor[2]);
+                            idade = Integer.parseInt(part2.toString());
 
-                        if (mes == 11) nomeMes = "Novembro";
-                        else if (mes == 1) nomeMes = "Janeiro";
-                        else if (mes == 2) nomeMes = "Fervereiro";
-                        else if (mes == 12) nomeMes = "Dezembro";
-                        else if (mes == 3) nomeMes = "Março";
-                        else if (mes == 4) nomeMes = "Abril";
-                        else if (mes == 5) nomeMes = "Maio";
-                        else if (mes == 6) nomeMes = "Junho";
-                        else if (mes == 7) nomeMes = "Julho";
-                        else if (mes == 8) nomeMes = "Agosto";
-                        else if (mes == 9) nomeMes = "Setembro";
-                        else if (mes == 10) nomeMes = "Outubro";
+                            if (mes == 11) nomeMes = "Novembro";
+                            else if (mes == 1) nomeMes = "Janeiro";
+                            else if (mes == 2) nomeMes = "Fervereiro";
+                            else if (mes == 12) nomeMes = "Dezembro";
+                            else if (mes == 3) nomeMes = "Março";
+                            else if (mes == 4) nomeMes = "Abril";
+                            else if (mes == 5) nomeMes = "Maio";
+                            else if (mes == 6) nomeMes = "Junho";
+                            else if (mes == 7) nomeMes = "Julho";
+                            else if (mes == 8) nomeMes = "Agosto";
+                            else if (mes == 9) nomeMes = "Setembro";
+                            else if (mes == 10) nomeMes = "Outubro";
 
-                    } else {
-                        //pegr os dois primeiros numeros como mes e os dois ultimos como idade
-                        part1.append(vetor[0]).append(vetor[1]);
-                        mes = Integer.parseInt(part1.toString());
-                        part2.append(vetor[2]).append(vetor[3]);
-                        idade = Integer.parseInt(part2.toString());
+                        } else {
+                            //pegr os dois primeiros numeros como mes e os dois ultimos como idade
+                            part1.append(vetor[0]).append(vetor[1]);
+                            mes = Integer.parseInt(part1.toString());
+                            part2.append(vetor[2]).append(vetor[3]);
+                            idade = Integer.parseInt(part2.toString());
 
-                        if (mes == 11) nomeMes = "Novembro";
-                        else if (mes == 1) nomeMes = "Janeiro";
-                        else if (mes == 2) nomeMes = "Fervereiro";
-                        else if (mes == 12) nomeMes = "Dezembro";
-                        else if (mes == 3) nomeMes = "Março";
-                        else if (mes == 4) nomeMes = "Abril";
-                        else if (mes == 5) nomeMes = "Maio";
-                        else if (mes == 6) nomeMes = "Junho";
-                        else if (mes == 7) nomeMes = "Julho";
-                        else if (mes == 8) nomeMes = "Agosto";
-                        else if (mes == 9) nomeMes = "Setembro";
-                        else if (mes == 10) nomeMes = "Outubro";
+                            if (mes == 11) nomeMes = "Novembro";
+                            else if (mes == 1) nomeMes = "Janeiro";
+                            else if (mes == 2) nomeMes = "Fervereiro";
+                            else if (mes == 12) nomeMes = "Dezembro";
+                            else if (mes == 3) nomeMes = "Março";
+                            else if (mes == 4) nomeMes = "Abril";
+                            else if (mes == 5) nomeMes = "Maio";
+                            else if (mes == 6) nomeMes = "Junho";
+                            else if (mes == 7) nomeMes = "Julho";
+                            else if (mes == 8) nomeMes = "Agosto";
+                            else if (mes == 9) nomeMes = "Setembro";
+                            else if (mes == 10) nomeMes = "Outubro";
 
+                        }
+                        if (nomeMes == null){
+                            labelTexto.setText("Seus calculos estão errados, por favor tente novamente");
+                            resultadoConta.setVisibility(View.INVISIBLE);
+                            botaoProximo.setText("voltar");
+                            contador++;
+                        }else {
+                            labelTexto.setText("Você tem " + idade + " anos e nasceu em " + nomeMes);
+                            resultadoConta.setVisibility(View.INVISIBLE);
+                            botaoProximo.setText("voltar");
+                            contador++;
+                        }
                     }
-                    if (nomeMes == null){
-                        labelTexto.setText("Seus calculos estão errados, por favor tente novamente");
-                        resultadoConta.setVisibility(View.INVISIBLE);
-                        botaoProximo.setText("voltar");
-                        contador++;
-                    }else {
-                        labelTexto.setText("Você tem " + idade + " anos e nasceu em " + nomeMes);
-                        resultadoConta.setVisibility(View.INVISIBLE);
-                        botaoProximo.setText("voltar");
-                        contador++;
-                    }
+
                 } else if (contador == 6) {
                     startActivity(new Intent(AniversarioActivity.this, MainActivity.class));
                 }

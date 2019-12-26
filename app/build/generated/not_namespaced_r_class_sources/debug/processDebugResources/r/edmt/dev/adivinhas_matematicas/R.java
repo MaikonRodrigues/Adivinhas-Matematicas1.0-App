@@ -3232,7 +3232,7 @@ public final class R {
     public static final int background_floating_material_light=0x7f05001c;
     public static final int background_material_dark=0x7f05001d;
     public static final int background_material_light=0x7f05001e;
-    public static final int banco=0x7f05001f;
+    public static final int branco=0x7f05001f;
     public static final int bright_foreground_disabled_material_dark=0x7f050020;
     public static final int bright_foreground_disabled_material_light=0x7f050021;
     public static final int bright_foreground_inverse_material_dark=0x7f050022;

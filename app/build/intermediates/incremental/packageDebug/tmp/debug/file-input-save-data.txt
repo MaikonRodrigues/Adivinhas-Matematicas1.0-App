@@ -1,11 +1,11 @@
 #Internal package file, do not edit.
-#Wed May 08 23:20:03 BRT 2019
-1.base=/home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/build/intermediates/transforms/dexMerger/debug/0
+#Thu Dec 26 16:19:14 BRST 2019
+1.base=C\:\\Users\\Dell\\Documents\\ProjetosAndroid\\Adivinhas-Matematicas1.0-App\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
 0.baseType=DIRECTORY
 1.baseType=DIRECTORY
 count=2
 1.set=DEX
 0.path=classes.dex
 0.set=DEX
-0.base=/home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/build/intermediates/transforms/dexMerger/debug/1
+0.base=C\:\\Users\\Dell\\Documents\\ProjetosAndroid\\Adivinhas-Matematicas1.0-App\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
 1.path=classes.dex

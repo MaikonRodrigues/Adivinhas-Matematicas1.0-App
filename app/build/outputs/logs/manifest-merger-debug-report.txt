@@ -1,311 +1,311 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml:2:1-39:12
-INJECTED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml:2:1-39:12
-INJECTED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml:2:1-39:12
-INJECTED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml:2:1-39:12
-MERGED from [com.android.support:design:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/efc147efd21e4a84ebeb5f02aee6f688/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:appcompat-v7:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/b07aa495dca11482ae4c105fb06ade07/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:cardview-v7:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/960bac42f315f0c65a31ef57b132bb38/AndroidManifest.xml:17:1-28:12
-MERGED from [com.google.android.gms:play-services-ads:17.1.1] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-ads-17.1.1.aar/e6dc9ab829230e138678c6c29ca38901/AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/maikon/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/4c6849c5ef60dadb9ec0c64994636005/AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/3dd4d87dea4804dd7f3a89af6af9c436/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/660fe153ab08e36397f1fcf9910eebd7/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:customtabs:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/4d019a7c25cc5b3e3be214535a84b367/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/bf6d413cce5ceed014a112c7ec4605c4/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:transition:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/6396ee0572ac6fddf07e03fdecf07088/AndroidManifest.xml:17:1-28:12
-MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/847d8745d202512fcc62a9439dd177df/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-ads-lite:17.1.1] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.1.aar/95e80006a779d3113d3af95db0cac256/AndroidManifest.xml:17:1-42:12
-MERGED from [com.google.android.gms:play-services-gass:17.1.1] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-gass-17.1.1.aar/b319382eb5156dfd7a1ca57c91073c25/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.3] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.3.aar/a37bf0564fa8f7948ee583fade256070/AndroidManifest.xml:17:1-30:12
-MERGED from [com.google.android.gms:play-services-measurement-base:16.0.4] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.4.aar/62ce182c4bf6c8a89b580de363a91ae2/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/244d0a35b5b5ab2680e15bca7685739d/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-v4:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/2ee2add29897c28763b9ea388175466c/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/56bfc6b6366ee26f0c40b033c7c3ccc3/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-fragment:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/b64cb0195b5974ce12f588dd6fab7bef/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-utils:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/7a649f037138ae64c8ef6e609cad18e3/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-ui:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/7feff8f93fd35ee54735ea3100f6c8c4/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-compat:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/6726792ff6d0a3eb4f93edd53e68c72e/AndroidManifest.xml:17:1-31:12
-MERGED from [com.google.android.gms:play-services-ads-base:17.1.1] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.1.1.aar/6347e022fc8612c3fc25243503a9e7b0/AndroidManifest.xml:2:1-9:12
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6bc25d52d75e88bab1c007e1948486f2/AndroidManifest.xml:17:1-30:12
-INJECTED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml:2:1-39:12
-INJECTED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml:2:1-39:12
-INJECTED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml:2:1-39:12
+ADDED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml:2:1-39:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\aac750bdcde9543529f0f95de505ca78\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\cb5194350563d2a78f11e3358b351b18\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\70397ac052059ee8620bec4f04e9349a\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-ads:17.1.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\313345107e27101aff57b4ac74f308bc\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\b39a04eb07a37bf4d1ca4d62906898d1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\11662a2caac41972ef2d21d486eac6e3\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\522748cae0bb263f3608c46861e7dcb4\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\2322c49ae6ba46f5ed1c0a5341287ccb\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\14c16fb6106586ac6b61a4008f08aa2b\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\f6509614b041291641d9f9b2a96888b8\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\b6e7c324f287ca972abb0e764844e219\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\9e8a4b9facbd865e8052c00bf43546d1\AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.android.gms:play-services-gass:17.1.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\6e4c61416a691fba8f529093775bd6d5\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.3] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\662fea25be47dc6e84b405a9a4816c7e\AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.4] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\f0d2eeabdf05eb4f3617457afc6e2681\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\ab30f50a68ac986ac67fadba35ba85c5\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\23e80c2a40b00667faa3be2e863655cd\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\ebad908af3d6840cc82206082753a483\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\dbf7d1a86c33f275f3eee9440a9bfd75\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\337d72e22aca4961fead6c9eff35698d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\79b4c6be871e194021dd226a8dd4d655\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\4bb335bc993fa6e5331a84d97181fe4b\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-ads-base:17.1.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\6a924ef88f9a0861ec7505bd841495c6\AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\12b97715b7da4ef38bda76c97e3720c6\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml:2:1-39:12
 	package
-		ADDED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml:3:5-45
-		INJECTED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml
-		INJECTED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml
+		ADDED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml
-		ADDED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml:2:1-39:12
-		INJECTED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml:2:1-39:12
+		INJECTED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml
-		ADDED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml:2:1-39:12
-		INJECTED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml:2:1-39:12
+		INJECTED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml:5:5-83
-MERGED from [com.google.android.gms:play-services-ads-lite:17.1.1] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.1.aar/95e80006a779d3113d3af95db0cac256/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-ads-lite:17.1.1] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.1.aar/95e80006a779d3113d3af95db0cac256/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.3] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.3.aar/a37bf0564fa8f7948ee583fade256070/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.3] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.3.aar/a37bf0564fa8f7948ee583fade256070/AndroidManifest.xml:23:5-67
+ADDED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml:5:5-83
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\9e8a4b9facbd865e8052c00bf43546d1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\9e8a4b9facbd865e8052c00bf43546d1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.3] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\662fea25be47dc6e84b405a9a4816c7e\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.3] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\662fea25be47dc6e84b405a9a4816c7e\AndroidManifest.xml:23:5-67
 	android:name
-		ADDED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml:5:22-64
+		ADDED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml:5:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml:6:5-95
-MERGED from [com.google.android.gms:play-services-ads-lite:17.1.1] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.1.aar/95e80006a779d3113d3af95db0cac256/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-ads-lite:17.1.1] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.1.aar/95e80006a779d3113d3af95db0cac256/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.3] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.3.aar/a37bf0564fa8f7948ee583fade256070/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.3] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.3.aar/a37bf0564fa8f7948ee583fade256070/AndroidManifest.xml:24:5-79
+ADDED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml:6:5-95
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\9e8a4b9facbd865e8052c00bf43546d1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\9e8a4b9facbd865e8052c00bf43546d1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.3] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\662fea25be47dc6e84b405a9a4816c7e\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.3] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\662fea25be47dc6e84b405a9a4816c7e\AndroidManifest.xml:24:5-79
 	android:name
-		ADDED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml:6:22-76
+		ADDED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml:6:22-76
 application
-ADDED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml:8:5-37:19
-MERGED from [com.android.support:design:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/efc147efd21e4a84ebeb5f02aee6f688/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:design:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/efc147efd21e4a84ebeb5f02aee6f688/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:appcompat-v7:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/b07aa495dca11482ae4c105fb06ade07/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:appcompat-v7:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/b07aa495dca11482ae4c105fb06ade07/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:cardview-v7:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/960bac42f315f0c65a31ef57b132bb38/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:cardview-v7:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/960bac42f315f0c65a31ef57b132bb38/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/maikon/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/4c6849c5ef60dadb9ec0c64994636005/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/maikon/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/4c6849c5ef60dadb9ec0c64994636005/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/3dd4d87dea4804dd7f3a89af6af9c436/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/3dd4d87dea4804dd7f3a89af6af9c436/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/660fe153ab08e36397f1fcf9910eebd7/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/660fe153ab08e36397f1fcf9910eebd7/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:customtabs:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/4d019a7c25cc5b3e3be214535a84b367/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:customtabs:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/4d019a7c25cc5b3e3be214535a84b367/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/bf6d413cce5ceed014a112c7ec4605c4/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/bf6d413cce5ceed014a112c7ec4605c4/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:transition:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/6396ee0572ac6fddf07e03fdecf07088/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:transition:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/6396ee0572ac6fddf07e03fdecf07088/AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/847d8745d202512fcc62a9439dd177df/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/847d8745d202512fcc62a9439dd177df/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-ads-lite:17.1.1] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.1.aar/95e80006a779d3113d3af95db0cac256/AndroidManifest.xml:26:5-40:19
-MERGED from [com.google.android.gms:play-services-ads-lite:17.1.1] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.1.aar/95e80006a779d3113d3af95db0cac256/AndroidManifest.xml:26:5-40:19
-MERGED from [com.google.android.gms:play-services-gass:17.1.1] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-gass-17.1.1.aar/b319382eb5156dfd7a1ca57c91073c25/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-gass:17.1.1] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-gass-17.1.1.aar/b319382eb5156dfd7a1ca57c91073c25/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.3] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.3.aar/a37bf0564fa8f7948ee583fade256070/AndroidManifest.xml:27:5-28:19
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.3] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.3.aar/a37bf0564fa8f7948ee583fade256070/AndroidManifest.xml:27:5-28:19
-MERGED from [com.google.android.gms:play-services-measurement-base:16.0.4] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.4.aar/62ce182c4bf6c8a89b580de363a91ae2/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-measurement-base:16.0.4] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.4.aar/62ce182c4bf6c8a89b580de363a91ae2/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/244d0a35b5b5ab2680e15bca7685739d/AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/244d0a35b5b5ab2680e15bca7685739d/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-v4:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/2ee2add29897c28763b9ea388175466c/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-v4:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/2ee2add29897c28763b9ea388175466c/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/56bfc6b6366ee26f0c40b033c7c3ccc3/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/56bfc6b6366ee26f0c40b033c7c3ccc3/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/b64cb0195b5974ce12f588dd6fab7bef/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/b64cb0195b5974ce12f588dd6fab7bef/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/7a649f037138ae64c8ef6e609cad18e3/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/7a649f037138ae64c8ef6e609cad18e3/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/7feff8f93fd35ee54735ea3100f6c8c4/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/7feff8f93fd35ee54735ea3100f6c8c4/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/6726792ff6d0a3eb4f93edd53e68c72e/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/6726792ff6d0a3eb4f93edd53e68c72e/AndroidManifest.xml:25:5-29:19
-MERGED from [com.google.android.gms:play-services-ads-base:17.1.1] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.1.1.aar/6347e022fc8612c3fc25243503a9e7b0/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-ads-base:17.1.1] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.1.1.aar/6347e022fc8612c3fc25243503a9e7b0/AndroidManifest.xml:7:5-20
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6bc25d52d75e88bab1c007e1948486f2/AndroidManifest.xml:24:5-28:19
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6bc25d52d75e88bab1c007e1948486f2/AndroidManifest.xml:24:5-28:19
+ADDED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml:8:5-37:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\aac750bdcde9543529f0f95de505ca78\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\aac750bdcde9543529f0f95de505ca78\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\cb5194350563d2a78f11e3358b351b18\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\cb5194350563d2a78f11e3358b351b18\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\70397ac052059ee8620bec4f04e9349a\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\70397ac052059ee8620bec4f04e9349a\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\b39a04eb07a37bf4d1ca4d62906898d1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\b39a04eb07a37bf4d1ca4d62906898d1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\11662a2caac41972ef2d21d486eac6e3\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\11662a2caac41972ef2d21d486eac6e3\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\522748cae0bb263f3608c46861e7dcb4\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\522748cae0bb263f3608c46861e7dcb4\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\2322c49ae6ba46f5ed1c0a5341287ccb\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\2322c49ae6ba46f5ed1c0a5341287ccb\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\14c16fb6106586ac6b61a4008f08aa2b\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\14c16fb6106586ac6b61a4008f08aa2b\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\f6509614b041291641d9f9b2a96888b8\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\f6509614b041291641d9f9b2a96888b8\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\b6e7c324f287ca972abb0e764844e219\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\b6e7c324f287ca972abb0e764844e219\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\9e8a4b9facbd865e8052c00bf43546d1\AndroidManifest.xml:26:5-40:19
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\9e8a4b9facbd865e8052c00bf43546d1\AndroidManifest.xml:26:5-40:19
+MERGED from [com.google.android.gms:play-services-gass:17.1.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\6e4c61416a691fba8f529093775bd6d5\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:17.1.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\6e4c61416a691fba8f529093775bd6d5\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.3] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\662fea25be47dc6e84b405a9a4816c7e\AndroidManifest.xml:27:5-28:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.3] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\662fea25be47dc6e84b405a9a4816c7e\AndroidManifest.xml:27:5-28:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.4] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\f0d2eeabdf05eb4f3617457afc6e2681\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.4] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\f0d2eeabdf05eb4f3617457afc6e2681\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\ab30f50a68ac986ac67fadba35ba85c5\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\ab30f50a68ac986ac67fadba35ba85c5\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\23e80c2a40b00667faa3be2e863655cd\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\23e80c2a40b00667faa3be2e863655cd\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\ebad908af3d6840cc82206082753a483\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\ebad908af3d6840cc82206082753a483\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\dbf7d1a86c33f275f3eee9440a9bfd75\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\dbf7d1a86c33f275f3eee9440a9bfd75\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\337d72e22aca4961fead6c9eff35698d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\337d72e22aca4961fead6c9eff35698d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\79b4c6be871e194021dd226a8dd4d655\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\79b4c6be871e194021dd226a8dd4d655\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\4bb335bc993fa6e5331a84d97181fe4b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\4bb335bc993fa6e5331a84d97181fe4b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-ads-base:17.1.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\6a924ef88f9a0861ec7505bd841495c6\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:17.1.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\6a924ef88f9a0861ec7505bd841495c6\AndroidManifest.xml:7:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\12b97715b7da4ef38bda76c97e3720c6\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\12b97715b7da4ef38bda76c97e3720c6\AndroidManifest.xml:24:5-28:19
 	android:supportsRtl
-		ADDED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml:13:9-35
+		ADDED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml:13:9-35
 	android:label
-		ADDED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml:11:9-41
+		ADDED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml:11:9-41
 	android:roundIcon
-		ADDED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml:12:9-54
+		ADDED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml:12:9-54
 	android:icon
-		ADDED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml:10:9-48
+		ADDED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml:10:9-48
 	android:allowBackup
-		ADDED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml:9:9-35
+		ADDED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml:9:9-35
 	android:theme
-		ADDED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml:14:9-40
+		ADDED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml:14:9-40
 activity#edmt.dev.adivinhas_matematicas.MainActivity
-ADDED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml:15:9-21:20
+ADDED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml:15:9-21:20
 	android:name
-		ADDED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml:15:19-77
+		ADDED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml:15:19-77
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml:16:13-20:29
+ADDED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml:16:13-20:29
 action#android.intent.action.MAIN
-ADDED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml:17:17-69
+ADDED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml:17:17-69
 	android:name
-		ADDED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml:17:25-66
+		ADDED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml:17:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml:19:17-77
+ADDED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml:19:17-77
 	android:name
-		ADDED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml:19:27-74
+		ADDED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml:19:27-74
 activity#edmt.dev.adivinhas_matematicas.ActivityOne
-ADDED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml:22:9-79
+ADDED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml:22:9-79
 	android:name
-		ADDED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml:22:19-76
+		ADDED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml:22:19-76
 activity#edmt.dev.adivinhas_matematicas.AdvinhaActivity
-ADDED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml:23:9-83
+ADDED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml:23:9-83
 	android:name
-		ADDED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml:23:19-80
+		ADDED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml:23:19-80
 activity#edmt.dev.adivinhas_matematicas.AdvinhaPrimTela_Activity
-ADDED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml:24:9-92
+ADDED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml:24:9-92
 	android:name
-		ADDED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml:24:19-89
+		ADDED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml:24:19-89
 activity#edmt.dev.adivinhas_matematicas.TelaResActivity
-ADDED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml:25:9-83
+ADDED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml:25:9-83
 	android:name
-		ADDED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml:25:19-80
+		ADDED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml:25:19-80
 activity#edmt.dev.adivinhas_matematicas.Jogo2Activity
-ADDED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml:26:9-81
+ADDED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml:26:9-81
 	android:name
-		ADDED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml:26:19-78
+		ADDED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml:26:19-78
 activity#edmt.dev.adivinhas_matematicas.Jog3Activity
-ADDED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml:27:9-80
+ADDED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml:27:9-80
 	android:name
-		ADDED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml:27:19-77
+		ADDED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml:27:19-77
 activity#edmt.dev.adivinhas_matematicas.Jogodos9Activity
-ADDED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml:28:9-84
+ADDED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml:28:9-84
 	android:name
-		ADDED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml:28:19-81
+		ADDED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml:28:19-81
 activity#edmt.dev.adivinhas_matematicas.AniversarioActivity
-ADDED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml:29:9-87
+ADDED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml:29:9-87
 	android:name
-		ADDED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml:29:19-84
+		ADDED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml:29:19-84
 activity#edmt.dev.adivinhas_matematicas.EgipAdvActivity
-ADDED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml:30:9-83
+ADDED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml:30:9-83
 	android:name
-		ADDED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml:30:19-80
+		ADDED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml:30:19-80
 meta-data#com.google.android.gms.ads.APPLICATION_ID
-ADDED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml:33:9-35:69
+ADDED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml:33:9-35:69
 	android:value
-		ADDED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml:35:13-67
+		ADDED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml:35:13-67
 	android:name
-		ADDED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml:34:13-69
+		ADDED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml:34:13-69
 uses-sdk
-INJECTED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml
-INJECTED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml
-MERGED from [com.android.support:design:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/efc147efd21e4a84ebeb5f02aee6f688/AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:design:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/efc147efd21e4a84ebeb5f02aee6f688/AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/b07aa495dca11482ae4c105fb06ade07/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/b07aa495dca11482ae4c105fb06ade07/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:cardview-v7:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/960bac42f315f0c65a31ef57b132bb38/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/960bac42f315f0c65a31ef57b132bb38/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads:17.1.1] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-ads-17.1.1.aar/e6dc9ab829230e138678c6c29ca38901/AndroidManifest.xml:21:5-23:62
-MERGED from [com.google.android.gms:play-services-ads:17.1.1] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-ads-17.1.1.aar/e6dc9ab829230e138678c6c29ca38901/AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/maikon/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/4c6849c5ef60dadb9ec0c64994636005/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/maikon/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/4c6849c5ef60dadb9ec0c64994636005/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/3dd4d87dea4804dd7f3a89af6af9c436/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/3dd4d87dea4804dd7f3a89af6af9c436/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/660fe153ab08e36397f1fcf9910eebd7/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/660fe153ab08e36397f1fcf9910eebd7/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customtabs:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/4d019a7c25cc5b3e3be214535a84b367/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customtabs:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/4d019a7c25cc5b3e3be214535a84b367/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/bf6d413cce5ceed014a112c7ec4605c4/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/bf6d413cce5ceed014a112c7ec4605c4/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/6396ee0572ac6fddf07e03fdecf07088/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/6396ee0572ac6fddf07e03fdecf07088/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/847d8745d202512fcc62a9439dd177df/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/847d8745d202512fcc62a9439dd177df/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-lite:17.1.1] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.1.aar/95e80006a779d3113d3af95db0cac256/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-lite:17.1.1] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.1.aar/95e80006a779d3113d3af95db0cac256/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-gass:17.1.1] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-gass-17.1.1.aar/b319382eb5156dfd7a1ca57c91073c25/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-gass:17.1.1] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-gass-17.1.1.aar/b319382eb5156dfd7a1ca57c91073c25/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.3] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.3.aar/a37bf0564fa8f7948ee583fade256070/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.3] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.3.aar/a37bf0564fa8f7948ee583fade256070/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-base:16.0.4] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.4.aar/62ce182c4bf6c8a89b580de363a91ae2/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-measurement-base:16.0.4] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.4.aar/62ce182c4bf6c8a89b580de363a91ae2/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/244d0a35b5b5ab2680e15bca7685739d/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/244d0a35b5b5ab2680e15bca7685739d/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/2ee2add29897c28763b9ea388175466c/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/2ee2add29897c28763b9ea388175466c/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/56bfc6b6366ee26f0c40b033c7c3ccc3/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/56bfc6b6366ee26f0c40b033c7c3ccc3/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/b64cb0195b5974ce12f588dd6fab7bef/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/b64cb0195b5974ce12f588dd6fab7bef/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-utils:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/7a649f037138ae64c8ef6e609cad18e3/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/7a649f037138ae64c8ef6e609cad18e3/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-ui:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/7feff8f93fd35ee54735ea3100f6c8c4/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/7feff8f93fd35ee54735ea3100f6c8c4/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/6726792ff6d0a3eb4f93edd53e68c72e/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/6726792ff6d0a3eb4f93edd53e68c72e/AndroidManifest.xml:21:5-23:58
-MERGED from [com.google.android.gms:play-services-ads-base:17.1.1] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.1.1.aar/6347e022fc8612c3fc25243503a9e7b0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-ads-base:17.1.1] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.1.1.aar/6347e022fc8612c3fc25243503a9e7b0/AndroidManifest.xml:5:5-44
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6bc25d52d75e88bab1c007e1948486f2/AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6bc25d52d75e88bab1c007e1948486f2/AndroidManifest.xml:20:5-22:41
-INJECTED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml
-INJECTED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml
+INJECTED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\aac750bdcde9543529f0f95de505ca78\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\aac750bdcde9543529f0f95de505ca78\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\cb5194350563d2a78f11e3358b351b18\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\cb5194350563d2a78f11e3358b351b18\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\70397ac052059ee8620bec4f04e9349a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\70397ac052059ee8620bec4f04e9349a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads:17.1.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\313345107e27101aff57b4ac74f308bc\AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:17.1.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\313345107e27101aff57b4ac74f308bc\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\b39a04eb07a37bf4d1ca4d62906898d1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\b39a04eb07a37bf4d1ca4d62906898d1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\11662a2caac41972ef2d21d486eac6e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\11662a2caac41972ef2d21d486eac6e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\522748cae0bb263f3608c46861e7dcb4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\522748cae0bb263f3608c46861e7dcb4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\2322c49ae6ba46f5ed1c0a5341287ccb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\2322c49ae6ba46f5ed1c0a5341287ccb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\14c16fb6106586ac6b61a4008f08aa2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\14c16fb6106586ac6b61a4008f08aa2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\f6509614b041291641d9f9b2a96888b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\f6509614b041291641d9f9b2a96888b8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\b6e7c324f287ca972abb0e764844e219\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\b6e7c324f287ca972abb0e764844e219\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\9e8a4b9facbd865e8052c00bf43546d1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\9e8a4b9facbd865e8052c00bf43546d1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:17.1.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\6e4c61416a691fba8f529093775bd6d5\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:17.1.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\6e4c61416a691fba8f529093775bd6d5\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.3] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\662fea25be47dc6e84b405a9a4816c7e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.3] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\662fea25be47dc6e84b405a9a4816c7e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.4] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\f0d2eeabdf05eb4f3617457afc6e2681\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.4] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\f0d2eeabdf05eb4f3617457afc6e2681\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\ab30f50a68ac986ac67fadba35ba85c5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\ab30f50a68ac986ac67fadba35ba85c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\23e80c2a40b00667faa3be2e863655cd\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\23e80c2a40b00667faa3be2e863655cd\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\ebad908af3d6840cc82206082753a483\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\ebad908af3d6840cc82206082753a483\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\dbf7d1a86c33f275f3eee9440a9bfd75\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\dbf7d1a86c33f275f3eee9440a9bfd75\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\337d72e22aca4961fead6c9eff35698d\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\337d72e22aca4961fead6c9eff35698d\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\79b4c6be871e194021dd226a8dd4d655\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\79b4c6be871e194021dd226a8dd4d655\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\4bb335bc993fa6e5331a84d97181fe4b\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\4bb335bc993fa6e5331a84d97181fe4b\AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-ads-base:17.1.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\6a924ef88f9a0861ec7505bd841495c6\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:17.1.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\6a924ef88f9a0861ec7505bd841495c6\AndroidManifest.xml:5:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\12b97715b7da4ef38bda76c97e3720c6\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\12b97715b7da4ef38bda76c97e3720c6\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/efc147efd21e4a84ebeb5f02aee6f688/AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\aac750bdcde9543529f0f95de505ca78\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml
-		ADDED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml
-		INJECTED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml
-		ADDED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml
-		INJECTED from /home/maikon/Documentos/Projetos Diversos/Estudos-Android/Projetos/Adivinhas-Matematicas1.0-App/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Dell\Documents\ProjetosAndroid\Adivinhas-Matematicas1.0-App\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:design:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/efc147efd21e4a84ebeb5f02aee6f688/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:appcompat-v7:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/b07aa495dca11482ae4c105fb06ade07/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:appcompat-v7:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/b07aa495dca11482ae4c105fb06ade07/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:cardview-v7:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/960bac42f315f0c65a31ef57b132bb38/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:cardview-v7:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/960bac42f315f0c65a31ef57b132bb38/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/3dd4d87dea4804dd7f3a89af6af9c436/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/3dd4d87dea4804dd7f3a89af6af9c436/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/660fe153ab08e36397f1fcf9910eebd7/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/660fe153ab08e36397f1fcf9910eebd7/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:customtabs:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/4d019a7c25cc5b3e3be214535a84b367/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:customtabs:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/4d019a7c25cc5b3e3be214535a84b367/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/bf6d413cce5ceed014a112c7ec4605c4/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/bf6d413cce5ceed014a112c7ec4605c4/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:transition:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/6396ee0572ac6fddf07e03fdecf07088/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:transition:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/6396ee0572ac6fddf07e03fdecf07088/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-v4:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/2ee2add29897c28763b9ea388175466c/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-v4:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/2ee2add29897c28763b9ea388175466c/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/56bfc6b6366ee26f0c40b033c7c3ccc3/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/56bfc6b6366ee26f0c40b033c7c3ccc3/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/b64cb0195b5974ce12f588dd6fab7bef/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/b64cb0195b5974ce12f588dd6fab7bef/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/7a649f037138ae64c8ef6e609cad18e3/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/7a649f037138ae64c8ef6e609cad18e3/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/7feff8f93fd35ee54735ea3100f6c8c4/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/7feff8f93fd35ee54735ea3100f6c8c4/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/6726792ff6d0a3eb4f93edd53e68c72e/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/6726792ff6d0a3eb4f93edd53e68c72e/AndroidManifest.xml:26:9-28:38
+ADDED from [com.android.support:design:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\aac750bdcde9543529f0f95de505ca78\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\cb5194350563d2a78f11e3358b351b18\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\cb5194350563d2a78f11e3358b351b18\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\70397ac052059ee8620bec4f04e9349a\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\70397ac052059ee8620bec4f04e9349a\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\11662a2caac41972ef2d21d486eac6e3\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\11662a2caac41972ef2d21d486eac6e3\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\522748cae0bb263f3608c46861e7dcb4\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\522748cae0bb263f3608c46861e7dcb4\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\2322c49ae6ba46f5ed1c0a5341287ccb\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\2322c49ae6ba46f5ed1c0a5341287ccb\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\14c16fb6106586ac6b61a4008f08aa2b\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\14c16fb6106586ac6b61a4008f08aa2b\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\f6509614b041291641d9f9b2a96888b8\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\f6509614b041291641d9f9b2a96888b8\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\23e80c2a40b00667faa3be2e863655cd\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\23e80c2a40b00667faa3be2e863655cd\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\ebad908af3d6840cc82206082753a483\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\ebad908af3d6840cc82206082753a483\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\dbf7d1a86c33f275f3eee9440a9bfd75\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\dbf7d1a86c33f275f3eee9440a9bfd75\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\337d72e22aca4961fead6c9eff35698d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\337d72e22aca4961fead6c9eff35698d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\79b4c6be871e194021dd226a8dd4d655\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\79b4c6be871e194021dd226a8dd4d655\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\4bb335bc993fa6e5331a84d97181fe4b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\4bb335bc993fa6e5331a84d97181fe4b\AndroidManifest.xml:26:9-28:38
 	android:value
-		ADDED from [com.android.support:design:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/efc147efd21e4a84ebeb5f02aee6f688/AndroidManifest.xml:28:13-35
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\aac750bdcde9543529f0f95de505ca78\AndroidManifest.xml:28:13-35
 	android:name
-		ADDED from [com.android.support:design:26.1.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/efc147efd21e4a84ebeb5f02aee6f688/AndroidManifest.xml:27:13-51
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\aac750bdcde9543529f0f95de505ca78\AndroidManifest.xml:27:13-51
 activity#com.google.android.gms.ads.AdActivity
-ADDED from [com.google.android.gms:play-services-ads-lite:17.1.1] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.1.aar/95e80006a779d3113d3af95db0cac256/AndroidManifest.xml:29:9-33:64
+ADDED from [com.google.android.gms:play-services-ads-lite:17.1.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\9e8a4b9facbd865e8052c00bf43546d1\AndroidManifest.xml:29:9-33:64
 	android:exported
-		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.1] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.1.aar/95e80006a779d3113d3af95db0cac256/AndroidManifest.xml:32:13-37
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\9e8a4b9facbd865e8052c00bf43546d1\AndroidManifest.xml:32:13-37
 	android:configChanges
-		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.1] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.1.aar/95e80006a779d3113d3af95db0cac256/AndroidManifest.xml:31:13-122
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\9e8a4b9facbd865e8052c00bf43546d1\AndroidManifest.xml:31:13-122
 	android:theme
-		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.1] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.1.aar/95e80006a779d3113d3af95db0cac256/AndroidManifest.xml:33:13-61
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\9e8a4b9facbd865e8052c00bf43546d1\AndroidManifest.xml:33:13-61
 	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.1] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.1.aar/95e80006a779d3113d3af95db0cac256/AndroidManifest.xml:30:13-65
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\9e8a4b9facbd865e8052c00bf43546d1\AndroidManifest.xml:30:13-65
 provider#com.google.android.gms.ads.MobileAdsInitProvider
-ADDED from [com.google.android.gms:play-services-ads-lite:17.1.1] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.1.aar/95e80006a779d3113d3af95db0cac256/AndroidManifest.xml:35:9-39:39
+ADDED from [com.google.android.gms:play-services-ads-lite:17.1.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\9e8a4b9facbd865e8052c00bf43546d1\AndroidManifest.xml:35:9-39:39
 	android:authorities
-		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.1] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.1.aar/95e80006a779d3113d3af95db0cac256/AndroidManifest.xml:37:13-73
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\9e8a4b9facbd865e8052c00bf43546d1\AndroidManifest.xml:37:13-73
 	android:exported
-		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.1] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.1.aar/95e80006a779d3113d3af95db0cac256/AndroidManifest.xml:38:13-37
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\9e8a4b9facbd865e8052c00bf43546d1\AndroidManifest.xml:38:13-37
 	android:initOrder
-		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.1] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.1.aar/95e80006a779d3113d3af95db0cac256/AndroidManifest.xml:39:13-36
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\9e8a4b9facbd865e8052c00bf43546d1\AndroidManifest.xml:39:13-36
 	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.1] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.1.aar/95e80006a779d3113d3af95db0cac256/AndroidManifest.xml:36:13-76
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\9e8a4b9facbd865e8052c00bf43546d1\AndroidManifest.xml:36:13-76
 uses-permission#android.permission.WAKE_LOCK
-ADDED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.3] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.3.aar/a37bf0564fa8f7948ee583fade256070/AndroidManifest.xml:25:5-68
+ADDED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.3] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\662fea25be47dc6e84b405a9a4816c7e\AndroidManifest.xml:25:5-68
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.3] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.3.aar/a37bf0564fa8f7948ee583fade256070/AndroidManifest.xml:25:22-65
+		ADDED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.3] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\662fea25be47dc6e84b405a9a4816c7e\AndroidManifest.xml:25:22-65
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/244d0a35b5b5ab2680e15bca7685739d/AndroidManifest.xml:23:9-25:69
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\ab30f50a68ac986ac67fadba35ba85c5\AndroidManifest.xml:23:9-25:69
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/244d0a35b5b5ab2680e15bca7685739d/AndroidManifest.xml:25:13-66
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\ab30f50a68ac986ac67fadba35ba85c5\AndroidManifest.xml:25:13-66
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/maikon/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/244d0a35b5b5ab2680e15bca7685739d/AndroidManifest.xml:24:13-58
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\ab30f50a68ac986ac67fadba35ba85c5\AndroidManifest.xml:24:13-58
 meta-data#android.arch.lifecycle.VERSION
-ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6bc25d52d75e88bab1c007e1948486f2/AndroidManifest.xml:25:9-27:47
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\12b97715b7da4ef38bda76c97e3720c6\AndroidManifest.xml:25:9-27:47
 	android:value
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6bc25d52d75e88bab1c007e1948486f2/AndroidManifest.xml:27:13-44
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\12b97715b7da4ef38bda76c97e3720c6\AndroidManifest.xml:27:13-44
 	android:name
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/maikon/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6bc25d52d75e88bab1c007e1948486f2/AndroidManifest.xml:26:13-58
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\12b97715b7da4ef38bda76c97e3720c6\AndroidManifest.xml:26:13-58
